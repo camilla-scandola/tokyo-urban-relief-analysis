@@ -86,3 +86,6 @@ All datasets are standardized to a common spatial unit: **`tokyo_ward`**.
 - `ward_casbee_normalized` (CASBEE per km², per footprint, per volume)
 
 All indicators are: aggregated at **ward level**, normalized for **comparability**, structured for **cross-domain analysis (urban form, green space, sustainability)**
+
+## Languages, libraries & tools used: 
+`python`, `sql`, `pandas`, `numpy`, `sqlalchemy`, `sqlite3`, `geopy`, `deep_translator`, `requests`, `Tableau`

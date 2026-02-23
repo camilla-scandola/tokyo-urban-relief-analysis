@@ -121,14 +121,6 @@ A synthetic index (0–100) summarizing urban balance per ward:
 
 ---
 
-### Key-takeaways
-- 21 out of 23 wards increased green space over the past decade
-  (the highest at a 36% rate compared to initial green space)
-- Green growth occurs all across the city, but at different rates  
-- Higher density is associated with slower greening, but doesn't necessarily prevent it
-- Peripheral wards are generally greener than central ones  
-- The Urban Relief Index shows big discrepancies across wards
-
 ## Languages, libraries & tools used: 
 `python`, `sql`, `pandas`, `numpy`, `sqlalchemy`, `sqlite3`, `geopy`, `deep_translator`, `requests`, `Tableau`
 

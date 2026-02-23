@@ -1,0 +1,857 @@
+﻿date,date_japanese_era,seq,municipality_class,ward_jp,park_class_jp,park_count,park_area_m2,tokyo_ward,municipality_class_en,park_class_en
+2016-04-01,H28.4.1,1,区部,千代田区,都立,1.0,161636.66,Chiyoda,Ward area,Metropolitan
+2016-04-01,H28.4.1,2,区部,中央区,都立,1.0,250215.72,Chuo,Ward area,Metropolitan
+2016-04-01,H28.4.1,3,区部,港区,都立,4.0,235658.05,Minato,Ward area,Metropolitan
+2016-04-01,H28.4.1,4,区部,新宿区,都立,1.0,189119.97,Shinjuku,Ward area,Metropolitan
+2016-04-01,H28.4.1,5,区部,文京区,都立,2.0,158656.58,Bunkyo,Ward area,Metropolitan
+2016-04-01,H28.4.1,6,区部,台東区,都立,2.0,556742.43,Taito,Ward area,Metropolitan
+2016-04-01,H28.4.1,7,区部,墨田区,都立,3.0,133593.01,Sumida,Ward area,Metropolitan
+2016-04-01,H28.4.1,8,区部,江東区,都立,6.0,1139436.5,Koto,Ward area,Metropolitan
+2016-04-01,H28.4.1,9,区部,品川区,都立,2.0,217553.78,Shinagawa,Ward area,Metropolitan
+2016-04-01,H28.4.1,10,区部,目黒区,都立,0.0,114276.0,Meguro,Ward area,Metropolitan
+2016-04-01,H28.4.1,12,区部,世田谷区,都立,4.0,920915.55,Setagaya,Ward area,Metropolitan
+2016-04-01,H28.4.1,13,区部,渋谷区,都立,2.0,568910.03,Shibuya,Ward area,Metropolitan
+2016-04-01,H28.4.1,15,区部,杉並区,都立,3.0,519372.8,Suginami,Ward area,Metropolitan
+2016-04-01,H28.4.1,17,区部,北区,都立,1.0,71647.37,Kita,Ward area,Metropolitan
+2016-04-01,H28.4.1,18,区部,荒川区,都立,2.0,191211.11,Arakawa,Ward area,Metropolitan
+2016-04-01,H28.4.1,19,区部,板橋区,都立,2.0,470816.2,Itabashi,Ward area,Metropolitan
+2016-04-01,H28.4.1,20,区部,練馬区,都立,4.0,1059970.76,Nerima,Ward area,Metropolitan
+2016-04-01,H28.4.1,21,区部,足立区,都立,3.0,911199.18,Adachi,Ward area,Metropolitan
+2016-04-01,H28.4.1,22,区部,葛飾区,都立,1.0,928253.05,Katsushika,Ward area,Metropolitan
+2016-04-01,H28.4.1,23,区部,江戸川区,都立,4.0,1344780.26,Edogawa,Ward area,Metropolitan
+2016-04-01,H28.4.1,24,区部,その他　※1,都立,0.0,34759.95,,Ward area,Metropolitan
+2016-04-01,H28.4.1,1,市部,八王子市,都立,5.0,1203496.76,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,2,市部,立川市,都立,0.0,32774.81,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,3,市部,武蔵野市,都立,1.0,409053.45,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,4,市部,三鷹市,都立,1.0,472969.89,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,6,市部,府中市,都立,3.0,484476.32,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,7,市部,昭島市,都立,0.0,13123.67,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,8,市部,調布市,都立,3.0,945328.84,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,9,市部,町田市,都立,3.0,984271.28,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,10,市部,小金井市,都立,1.0,711870.35,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,11,市部,小平市,都立,2.0,161232.38,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,12,市部,日野市,都立,1.0,601372.54,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,13,市部,東村山市,都立,3.0,653623.72,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,14,市部,国分寺市,都立,2.0,130608.62,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,16,市部,福生市,都立,0.0,498.14,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,18,市部,東大和市,都立,2.0,384618.38,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,20,市部,東久留米市,都立,1.0,50112.04,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,21,市部,武蔵村山市,都立,1.0,1008772.69,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,22,市部,多摩市,都立,1.0,339322.38,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,25,市部,あきる野市,都立,1.0,118447.07,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,26,市部,西東京市,都立,1.0,88328.07,,city ​​area,Metropolitan
+2016-04-01,H28.4.1,1,郡部,瑞穂町,都立,1.0,1044226.65,,county,Metropolitan
+2016-04-01,H28.4.1,9,島部,小笠原村,都立,1.0,153125.94,,island part,Metropolitan
+2016-04-01,H28.4.1,1,区部,千代田区,区市町村,22.0,104909.27,Chiyoda,Ward area,Ward municipality
+2016-04-01,H28.4.1,2,区部,中央区,区市町村,54.0,326631.4,Chuo,Ward area,Ward municipality
+2016-04-01,H28.4.1,3,区部,港区,区市町村,47.0,263204.53,Minato,Ward area,Ward municipality
+2016-04-01,H28.4.1,4,区部,新宿区,区市町村,176.0,359704.83,Shinjuku,Ward area,Ward municipality
+2016-04-01,H28.4.1,5,区部,文京区,区市町村,45.0,202755.97,Bunkyo,Ward area,Ward municipality
+2016-04-01,H28.4.1,6,区部,台東区,区市町村,50.0,193177.32,Taito,Ward area,Ward municipality
+2016-04-01,H28.4.1,7,区部,墨田区,区市町村,140.0,639288.47,Sumida,Ward area,Ward municipality
+2016-04-01,H28.4.1,8,区部,江東区,区市町村,167.0,1001364.4,Koto,Ward area,Ward municipality
+2016-04-01,H28.4.1,9,区部,品川区,区市町村,148.0,510147.39,Shinagawa,Ward area,Ward municipality
+2016-04-01,H28.4.1,10,区部,目黒区,区市町村,80.0,348440.93,Meguro,Ward area,Ward municipality
+2016-04-01,H28.4.1,11,区部,大田区,区市町村,500.0,1990419.75,Ota,Ward area,Ward municipality
+2016-04-01,H28.4.1,12,区部,世田谷区,区市町村,410.0,1592934.77,Setagaya,Ward area,Ward municipality
+2016-04-01,H28.4.1,13,区部,渋谷区,区市町村,125.0,168497.39,Shibuya,Ward area,Ward municipality
+2016-04-01,H28.4.1,14,区部,中野区,区市町村,163.0,418414.52,Nakano,Ward area,Ward municipality
+2016-04-01,H28.4.1,15,区部,杉並区,区市町村,272.0,588745.11,Suginami,Ward area,Ward municipality
+2016-04-01,H28.4.1,16,区部,豊島区,区市町村,88.0,181953.36,Toshima,Ward area,Ward municipality
+2016-04-01,H28.4.1,17,区部,北区,区市町村,84.0,883433.96,Kita,Ward area,Ward municipality
+2016-04-01,H28.4.1,18,区部,荒川区,区市町村,33.0,141557.76,Arakawa,Ward area,Ward municipality
+2016-04-01,H28.4.1,19,区部,板橋区,区市町村,344.0,1421791.06,Itabashi,Ward area,Ward municipality
+2016-04-01,H28.4.1,20,区部,練馬区,区市町村,449.0,922077.49,Nerima,Ward area,Ward municipality
+2016-04-01,H28.4.1,21,区部,足立区,区市町村,335.0,2202801.12,Adachi,Ward area,Ward municipality
+2016-04-01,H28.4.1,22,区部,葛飾区,区市町村,146.0,875183.14,Katsushika,Ward area,Ward municipality
+2016-04-01,H28.4.1,23,区部,江戸川区,区市町村,311.0,2057080.94,Edogawa,Ward area,Ward municipality
+2016-04-01,H28.4.1,1,市部,八王子市,区市町村,786.0,5535908.0,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,2,市部,立川市,区市町村,96.0,559456.26,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,3,市部,武蔵野市,区市町村,112.0,195607.0,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,4,市部,三鷹市,区市町村,37.0,110344.53,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,5,市部,青梅市,区市町村,99.0,602357.36,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,6,市部,府中市,区市町村,274.0,1299063.41,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,7,市部,昭島市,区市町村,38.0,456087.25,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,8,市部,調布市,区市町村,199.0,288602.19,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,9,市部,町田市,区市町村,703.0,3195448.55,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,10,市部,小金井市,区市町村,11.0,67650.0,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,11,市部,小平市,区市町村,304.0,351282.15,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,12,市部,日野市,区市町村,198.0,699448.0,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,13,市部,東村山市,区市町村,17.0,118902.81,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,14,市部,国分寺市,区市町村,13.0,83442.68,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,15,市部,国立市,区市町村,25.0,141893.36,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,16,市部,福生市,区市町村,55.0,401218.55,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,17,市部,狛江市,区市町村,27.0,106081.39,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,18,市部,東大和市,区市町村,96.0,306945.95,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,19,市部,清瀬市,区市町村,4.0,50685.48,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,20,市部,東久留米市,区市町村,135.0,193499.86,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,21,市部,武蔵村山市,区市町村,18.0,220235.66,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,22,市部,多摩市,区市町村,208.0,2008908.2,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,23,市部,稲城市,区市町村,119.0,975418.65,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,24,市部,羽村市,区市町村,73.0,339717.37,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,25,市部,あきる野市,区市町村,32.0,181039.74,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,26,市部,西東京市,区市町村,49.0,164454.4,,city ​​area,Ward municipality
+2016-04-01,H28.4.1,1,郡部,瑞穂町,区市町村,53.0,171065.75,,county,Ward municipality
+2016-04-01,H28.4.1,2,郡部,日の出町,区市町村,23.0,55644.7,,county,Ward municipality
+2016-04-01,H28.4.1,1,島部,大島町,区市町村,1.0,1155.0,,island part,Ward municipality
+2016-04-01,H28.4.1,2,島部,新島村,区市町村,4.0,12400.0,,island part,Ward municipality
+2016-04-01,H28.4.1,4,島部,八丈町,区市町村,4.0,112971.38,,island part,Ward municipality
+2016-04-01,H28.4.1,9,島部,小笠原村,区市町村,3.0,9406.68,,island part,Ward municipality
+2016-04-01,H28.4.1,8,区部,江東区,国営,1.0,67000.0,Koto,Ward area,National government
+2016-04-01,H28.4.1,2,市部,立川市,国営,1.0,1078000.0,,city ​​area,National government
+2016-04-01,H28.4.1,7,市部,昭島市,国営,,616000.0,,city ​​area,National government
+2016-04-01,H28.4.1,2,区部,中央区,海上,1.0,24513.27,Chuo,Ward area,sea
+2016-04-01,H28.4.1,3,区部,港区,海上,3.0,541118.77,Minato,Ward area,sea
+2016-04-01,H28.4.1,8,区部,江東区,海上,17.0,1969159.62,Koto,Ward area,sea
+2016-04-01,H28.4.1,9,区部,品川区,海上,6.0,508514.53,Shinagawa,Ward area,sea
+2016-04-01,H28.4.1,11,区部,大田区,海上,10.0,725312.79,Ota,Ward area,sea
+2016-04-01,H28.4.1,23,区部,江戸川区,海上,1.0,4117473.01,Edogawa,Ward area,sea
+2017-04-01,H29.4.1,1,区部,千代田区,都立,1.0,161636.66,Chiyoda,Ward area,Metropolitan
+2017-04-01,H29.4.1,2,区部,中央区,都立,1.0,250215.72,Chuo,Ward area,Metropolitan
+2017-04-01,H29.4.1,3,区部,港区,都立,4.0,235658.05,Minato,Ward area,Metropolitan
+2017-04-01,H29.4.1,4,区部,新宿区,都立,1.0,186471.81,Shinjuku,Ward area,Metropolitan
+2017-04-01,H29.4.1,5,区部,文京区,都立,2.0,158656.58,Bunkyo,Ward area,Metropolitan
+2017-04-01,H29.4.1,6,区部,台東区,都立,2.0,556742.43,Taito,Ward area,Metropolitan
+2017-04-01,H29.4.1,7,区部,墨田区,都立,3.0,133593.01,Sumida,Ward area,Metropolitan
+2017-04-01,H29.4.1,8,区部,江東区,都立,6.0,1139436.5,Koto,Ward area,Metropolitan
+2017-04-01,H29.4.1,9,区部,品川区,都立,2.0,217553.78,Shinagawa,Ward area,Metropolitan
+2017-04-01,H29.4.1,10,区部,目黒区,都立,0.0,114276.0,Meguro,Ward area,Metropolitan
+2017-04-01,H29.4.1,12,区部,世田谷区,都立,4.0,920915.55,Setagaya,Ward area,Metropolitan
+2017-04-01,H29.4.1,13,区部,渋谷区,都立,2.0,568910.03,Shibuya,Ward area,Metropolitan
+2017-04-01,H29.4.1,15,区部,杉並区,都立,3.0,521318.59,Suginami,Ward area,Metropolitan
+2017-04-01,H29.4.1,17,区部,北区,都立,1.0,71647.37,Kita,Ward area,Metropolitan
+2017-04-01,H29.4.1,18,区部,荒川区,都立,2.0,191211.11,Arakawa,Ward area,Metropolitan
+2017-04-01,H29.4.1,19,区部,板橋区,都立,2.0,470816.2,Itabashi,Ward area,Metropolitan
+2017-04-01,H29.4.1,20,区部,練馬区,都立,4.0,1059970.76,Nerima,Ward area,Metropolitan
+2017-04-01,H29.4.1,21,区部,足立区,都立,3.0,911199.18,Adachi,Ward area,Metropolitan
+2017-04-01,H29.4.1,22,区部,葛飾区,都立,1.0,928253.05,Katsushika,Ward area,Metropolitan
+2017-04-01,H29.4.1,23,区部,江戸川区,都立,4.0,1344780.26,Edogawa,Ward area,Metropolitan
+2017-04-01,H29.4.1,24,区部,その他　※1,都立,0.0,34759.95,,Ward area,Metropolitan
+2017-04-01,H29.4.1,1,市部,八王子市,都立,5.0,1229836.49,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,2,市部,立川市,都立,0.0,32774.81,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,3,市部,武蔵野市,都立,1.0,409053.45,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,4,市部,三鷹市,都立,1.0,472969.89,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,6,市部,府中市,都立,3.0,489027.07,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,7,市部,昭島市,都立,0.0,13123.67,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,8,市部,調布市,都立,3.0,945328.84,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,9,市部,町田市,都立,3.0,984271.28,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,10,市部,小金井市,都立,1.0,727528.78,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,11,市部,小平市,都立,2.0,161062.31,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,12,市部,日野市,都立,1.0,601372.54,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,13,市部,東村山市,都立,3.0,653623.72,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,14,市部,国分寺市,都立,2.0,135732.02,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,16,市部,福生市,都立,0.0,498.14,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,18,市部,東大和市,都立,2.0,384618.38,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,20,市部,東久留米市,都立,1.0,50112.04,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,21,市部,武蔵村山市,都立,1.0,1009148.7,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,22,市部,多摩市,都立,1.0,339322.38,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,25,市部,あきる野市,都立,1.0,118447.07,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,26,市部,西東京市,都立,1.0,91174.63,,city ​​area,Metropolitan
+2017-04-01,H29.4.1,1,郡部,瑞穂町,都立,1.0,1047011.99,,county,Metropolitan
+2017-04-01,H29.4.1,9,島部,小笠原村,都立,1.0,153125.94,,island part,Metropolitan
+2017-04-01,H29.4.1,1,区部,千代田区,区市町村,22.0,104909.27,Chiyoda,Ward area,Ward municipality
+2017-04-01,H29.4.1,2,区部,中央区,区市町村,56.0,319419.11,Chuo,Ward area,Ward municipality
+2017-04-01,H29.4.1,3,区部,港区,区市町村,47.0,266338.55,Minato,Ward area,Ward municipality
+2017-04-01,H29.4.1,4,区部,新宿区,区市町村,176.0,359560.83,Shinjuku,Ward area,Ward municipality
+2017-04-01,H29.4.1,5,区部,文京区,区市町村,45.0,203217.33,Bunkyo,Ward area,Ward municipality
+2017-04-01,H29.4.1,6,区部,台東区,区市町村,50.0,193239.73,Taito,Ward area,Ward municipality
+2017-04-01,H29.4.1,7,区部,墨田区,区市町村,141.0,639635.17,Sumida,Ward area,Ward municipality
+2017-04-01,H29.4.1,8,区部,江東区,区市町村,167.0,1001364.4,Koto,Ward area,Ward municipality
+2017-04-01,H29.4.1,9,区部,品川区,区市町村,148.0,518085.57,Shinagawa,Ward area,Ward municipality
+2017-04-01,H29.4.1,10,区部,目黒区,区市町村,80.0,348440.93,Meguro,Ward area,Ward municipality
+2017-04-01,H29.4.1,11,区部,大田区,区市町村,502.0,1992311.21,Ota,Ward area,Ward municipality
+2017-04-01,H29.4.1,12,区部,世田谷区,区市町村,419.0,1607792.16,Setagaya,Ward area,Ward municipality
+2017-04-01,H29.4.1,13,区部,渋谷区,区市町村,126.0,168634.68,Shibuya,Ward area,Ward municipality
+2017-04-01,H29.4.1,14,区部,中野区,区市町村,164.0,420042.41,Nakano,Ward area,Ward municipality
+2017-04-01,H29.4.1,15,区部,杉並区,区市町村,274.0,624425.31,Suginami,Ward area,Ward municipality
+2017-04-01,H29.4.1,16,区部,豊島区,区市町村,88.0,181953.36,Toshima,Ward area,Ward municipality
+2017-04-01,H29.4.1,17,区部,北区,区市町村,84.0,896372.14,Kita,Ward area,Ward municipality
+2017-04-01,H29.4.1,18,区部,荒川区,区市町村,35.0,145982.42,Arakawa,Ward area,Ward municipality
+2017-04-01,H29.4.1,19,区部,板橋区,区市町村,345.0,1421791.06,Itabashi,Ward area,Ward municipality
+2017-04-01,H29.4.1,20,区部,練馬区,区市町村,456.0,944318.88,Nerima,Ward area,Ward municipality
+2017-04-01,H29.4.1,21,区部,足立区,区市町村,342.0,2217101.76,Adachi,Ward area,Ward municipality
+2017-04-01,H29.4.1,22,区部,葛飾区,区市町村,146.0,878483.87,Katsushika,Ward area,Ward municipality
+2017-04-01,H29.4.1,23,区部,江戸川区,区市町村,316.0,2064564.23,Edogawa,Ward area,Ward municipality
+2017-04-01,H29.4.1,1,市部,八王子市,区市町村,796.0,5636997.0,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,2,市部,立川市,区市町村,96.0,559455.85,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,3,市部,武蔵野市,区市町村,112.0,195607.0,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,4,市部,三鷹市,区市町村,38.0,125680.27,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,5,市部,青梅市,区市町村,101.0,600883.37,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,6,市部,府中市,区市町村,273.0,1298676.64,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,7,市部,昭島市,区市町村,40.0,475590.52,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,8,市部,調布市,区市町村,199.0,288748.27,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,9,市部,町田市,区市町村,710.0,3197732.78,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,10,市部,小金井市,区市町村,11.0,67784.0,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,11,市部,小平市,区市町村,307.0,349048.15,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,12,市部,日野市,区市町村,198.0,699443.0,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,13,市部,東村山市,区市町村,17.0,118902.81,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,14,市部,国分寺市,区市町村,13.0,83442.68,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,15,市部,国立市,区市町村,25.0,152374.75,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,16,市部,福生市,区市町村,55.0,401218.55,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,17,市部,狛江市,区市町村,27.0,106081.39,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,18,市部,東大和市,区市町村,96.0,306945.95,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,19,市部,清瀬市,区市町村,4.0,50685.48,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,20,市部,東久留米市,区市町村,135.0,192328.3,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,21,市部,武蔵村山市,区市町村,18.0,220235.66,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,22,市部,多摩市,区市町村,208.0,2010615.52,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,23,市部,稲城市,区市町村,121.0,983888.86,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,24,市部,羽村市,区市町村,72.0,339193.37,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,25,市部,あきる野市,区市町村,32.0,181039.74,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,26,市部,西東京市,区市町村,50.0,167054.93,,city ​​area,Ward municipality
+2017-04-01,H29.4.1,1,郡部,瑞穂町,区市町村,55.0,171425.35,,county,Ward municipality
+2017-04-01,H29.4.1,2,郡部,日の出町,区市町村,23.0,55644.7,,county,Ward municipality
+2017-04-01,H29.4.1,1,島部,大島町,区市町村,1.0,1155.0,,island part,Ward municipality
+2017-04-01,H29.4.1,2,島部,新島村,区市町村,4.0,12400.0,,island part,Ward municipality
+2017-04-01,H29.4.1,4,島部,八丈町,区市町村,4.0,112971.38,,island part,Ward municipality
+2017-04-01,H29.4.1,9,島部,小笠原村,区市町村,3.0,9406.68,,island part,Ward municipality
+2017-04-01,H29.4.1,8,区部,江東区,国営,1.0,67000.0,Koto,Ward area,National government
+2017-04-01,H29.4.1,2,市部,立川市,国営,1.0,1078000.0,,city ​​area,National government
+2017-04-01,H29.4.1,7,市部,昭島市,国営,,616000.0,,city ​​area,National government
+2017-04-01,H29.4.1,2,区部,中央区,海上,1.0,24513.27,Chuo,Ward area,sea
+2017-04-01,H29.4.1,3,区部,港区,海上,3.0,541118.77,Minato,Ward area,sea
+2017-04-01,H29.4.1,8,区部,江東区,海上,18.0,1987486.18,Koto,Ward area,sea
+2017-04-01,H29.4.1,9,区部,品川区,海上,6.0,508514.53,Shinagawa,Ward area,sea
+2017-04-01,H29.4.1,11,区部,大田区,海上,9.0,725155.22,Ota,Ward area,sea
+2017-04-01,H29.4.1,23,区部,江戸川区,海上,1.0,4117473.01,Edogawa,Ward area,sea
+2018-04-01,H30.4.1,1,区部,千代田区,都立,1.0,161636.66,Chiyoda,Ward area,Metropolitan
+2018-04-01,H30.4.1,2,区部,中央区,都立,1.0,250215.72,Chuo,Ward area,Metropolitan
+2018-04-01,H30.4.1,3,区部,港区,都立,4.0,235658.05,Minato,Ward area,Metropolitan
+2018-04-01,H30.4.1,4,区部,新宿区,都立,1.0,186471.81,Shinjuku,Ward area,Metropolitan
+2018-04-01,H30.4.1,5,区部,文京区,都立,2.0,158656.58,Bunkyo,Ward area,Metropolitan
+2018-04-01,H30.4.1,6,区部,台東区,都立,2.0,556742.43,Taito,Ward area,Metropolitan
+2018-04-01,H30.4.1,7,区部,墨田区,都立,3.0,133593.01,Sumida,Ward area,Metropolitan
+2018-04-01,H30.4.1,8,区部,江東区,都立,6.0,1139436.5,Koto,Ward area,Metropolitan
+2018-04-01,H30.4.1,9,区部,品川区,都立,2.0,217553.78,Shinagawa,Ward area,Metropolitan
+2018-04-01,H30.4.1,10,区部,目黒区,都立,0.0,114276.0,Meguro,Ward area,Metropolitan
+2018-04-01,H30.4.1,12,区部,世田谷区,都立,4.0,921707.9,Setagaya,Ward area,Metropolitan
+2018-04-01,H30.4.1,13,区部,渋谷区,都立,2.0,568910.03,Shibuya,Ward area,Metropolitan
+2018-04-01,H30.4.1,15,区部,杉並区,都立,3.0,526373.26,Suginami,Ward area,Metropolitan
+2018-04-01,H30.4.1,17,区部,北区,都立,1.0,71647.37,Kita,Ward area,Metropolitan
+2018-04-01,H30.4.1,18,区部,荒川区,都立,2.0,191211.11,Arakawa,Ward area,Metropolitan
+2018-04-01,H30.4.1,19,区部,板橋区,都立,2.0,462479.86,Itabashi,Ward area,Metropolitan
+2018-04-01,H30.4.1,20,区部,練馬区,都立,4.0,1059015.96,Nerima,Ward area,Metropolitan
+2018-04-01,H30.4.1,21,区部,足立区,都立,3.0,911199.18,Adachi,Ward area,Metropolitan
+2018-04-01,H30.4.1,22,区部,葛飾区,都立,1.0,928253.05,Katsushika,Ward area,Metropolitan
+2018-04-01,H30.4.1,23,区部,江戸川区,都立,4.0,1315106.21,Edogawa,Ward area,Metropolitan
+2018-04-01,H30.4.1,24,区部,その他　※1,都立,0.0,34759.95,,Ward area,Metropolitan
+2018-04-01,H30.4.1,1,市部,八王子市,都立,5.0,1249233.49,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,2,市部,立川市,都立,0.0,32774.81,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,3,市部,武蔵野市,都立,1.0,409053.45,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,4,市部,三鷹市,都立,1.0,472969.89,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,6,市部,府中市,都立,3.0,489027.07,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,7,市部,昭島市,都立,0.0,13123.67,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,8,市部,調布市,都立,3.0,946863.42,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,9,市部,町田市,都立,3.0,1001316.01,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,10,市部,小金井市,都立,1.0,727528.78,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,11,市部,小平市,都立,2.0,161062.31,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,12,市部,日野市,都立,1.0,601372.54,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,13,市部,東村山市,都立,3.0,653623.72,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,14,市部,国分寺市,都立,2.0,135732.02,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,16,市部,福生市,都立,0.0,498.14,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,18,市部,東大和市,都立,2.0,384978.34,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,20,市部,東久留米市,都立,1.0,50112.04,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,21,市部,武蔵村山市,都立,1.0,1018828.32,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,22,市部,多摩市,都立,1.0,339322.38,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,25,市部,あきる野市,都立,1.0,118447.07,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,26,市部,西東京市,都立,1.0,91174.63,,city ​​area,Metropolitan
+2018-04-01,H30.4.1,1,郡部,瑞穂町,都立,1.0,1047011.99,,county,Metropolitan
+2018-04-01,H30.4.1,9,島部,小笠原村,都立,1.0,153125.94,,island part,Metropolitan
+2018-04-01,H30.4.1,1,区部,千代田区,区市町村,22.0,104568.56,Chiyoda,Ward area,Ward municipality
+2018-04-01,H30.4.1,2,区部,中央区,区市町村,57.0,321041.41,Chuo,Ward area,Ward municipality
+2018-04-01,H30.4.1,3,区部,港区,区市町村,47.0,266338.55,Minato,Ward area,Ward municipality
+2018-04-01,H30.4.1,4,区部,新宿区,区市町村,176.0,359300.83,Shinjuku,Ward area,Ward municipality
+2018-04-01,H30.4.1,5,区部,文京区,区市町村,45.0,203217.33,Bunkyo,Ward area,Ward municipality
+2018-04-01,H30.4.1,6,区部,台東区,区市町村,50.0,193301.39,Taito,Ward area,Ward municipality
+2018-04-01,H30.4.1,7,区部,墨田区,区市町村,141.0,639939.56,Sumida,Ward area,Ward municipality
+2018-04-01,H30.4.1,8,区部,江東区,区市町村,168.0,1154196.57,Koto,Ward area,Ward municipality
+2018-04-01,H30.4.1,9,区部,品川区,区市町村,148.0,518085.57,Shinagawa,Ward area,Ward municipality
+2018-04-01,H30.4.1,10,区部,目黒区,区市町村,80.0,348440.93,Meguro,Ward area,Ward municipality
+2018-04-01,H30.4.1,11,区部,大田区,区市町村,503.0,2012239.92,Ota,Ward area,Ward municipality
+2018-04-01,H30.4.1,12,区部,世田谷区,区市町村,420.0,1611416.38,Setagaya,Ward area,Ward municipality
+2018-04-01,H30.4.1,13,区部,渋谷区,区市町村,126.0,160173.75,Shibuya,Ward area,Ward municipality
+2018-04-01,H30.4.1,14,区部,中野区,区市町村,164.0,425889.69,Nakano,Ward area,Ward municipality
+2018-04-01,H30.4.1,15,区部,杉並区,区市町村,274.0,624766.17,Suginami,Ward area,Ward municipality
+2018-04-01,H30.4.1,16,区部,豊島区,区市町村,88.0,181286.59,Toshima,Ward area,Ward municipality
+2018-04-01,H30.4.1,17,区部,北区,区市町村,84.0,898545.92,Kita,Ward area,Ward municipality
+2018-04-01,H30.4.1,18,区部,荒川区,区市町村,35.0,145982.42,Arakawa,Ward area,Ward municipality
+2018-04-01,H30.4.1,19,区部,板橋区,区市町村,344.0,1421807.55,Itabashi,Ward area,Ward municipality
+2018-04-01,H30.4.1,20,区部,練馬区,区市町村,458.0,945745.45,Nerima,Ward area,Ward municipality
+2018-04-01,H30.4.1,21,区部,足立区,区市町村,344.0,2222148.58,Adachi,Ward area,Ward municipality
+2018-04-01,H30.4.1,22,区部,葛飾区,区市町村,148.0,895932.03,Katsushika,Ward area,Ward municipality
+2018-04-01,H30.4.1,23,区部,江戸川区,区市町村,321.0,2070981.9,Edogawa,Ward area,Ward municipality
+2018-04-01,H30.4.1,1,市部,八王子市,区市町村,796.0,5637193.0,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,2,市部,立川市,区市町村,97.0,579919.34,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,3,市部,武蔵野市,区市町村,112.0,197272.0,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,4,市部,三鷹市,区市町村,38.0,125680.27,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,5,市部,青梅市,区市町村,102.0,603642.93,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,6,市部,府中市,区市町村,274.0,1300050.77,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,7,市部,昭島市,区市町村,40.0,481665.75,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,8,市部,調布市,区市町村,199.0,288748.27,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,9,市部,町田市,区市町村,713.0,3191163.67,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,10,市部,小金井市,区市町村,11.0,67784.0,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,11,市部,小平市,区市町村,313.0,356165.15,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,12,市部,日野市,区市町村,200.0,700201.0,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,13,市部,東村山市,区市町村,17.0,118902.81,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,14,市部,国分寺市,区市町村,13.0,83442.68,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,15,市部,国立市,区市町村,25.0,153917.02,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,16,市部,福生市,区市町村,55.0,401218.55,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,17,市部,狛江市,区市町村,27.0,106081.39,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,18,市部,東大和市,区市町村,96.0,307072.88,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,19,市部,清瀬市,区市町村,4.0,50685.48,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,20,市部,東久留米市,区市町村,140.0,193623.32,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,21,市部,武蔵村山市,区市町村,18.0,220235.75,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,22,市部,多摩市,区市町村,209.0,2013512.69,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,23,市部,稲城市,区市町村,121.0,984205.86,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,24,市部,羽村市,区市町村,72.0,339193.37,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,25,市部,あきる野市,区市町村,32.0,181039.74,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,26,市部,西東京市,区市町村,50.0,167054.93,,city ​​area,Ward municipality
+2018-04-01,H30.4.1,1,郡部,瑞穂町,区市町村,55.0,171425.35,,county,Ward municipality
+2018-04-01,H30.4.1,2,郡部,日の出町,区市町村,23.0,55644.7,,county,Ward municipality
+2018-04-01,H30.4.1,1,島部,大島町,区市町村,1.0,1155.0,,island part,Ward municipality
+2018-04-01,H30.4.1,2,島部,新島村,区市町村,4.0,12400.0,,island part,Ward municipality
+2018-04-01,H30.4.1,4,島部,八丈町,区市町村,4.0,112971.38,,island part,Ward municipality
+2018-04-01,H30.4.1,9,島部,小笠原村,区市町村,3.0,9406.68,,island part,Ward municipality
+2018-04-01,H30.4.1,8,区部,江東区,国営,1.0,67000.0,Koto,Ward area,National government
+2018-04-01,H30.4.1,2,市部,立川市,国営,1.0,1078000.0,,city ​​area,National government
+2018-04-01,H30.4.1,7,市部,昭島市,国営,,616000.0,,city ​​area,National government
+2018-04-01,H30.4.1,2,区部,中央区,海上,1.0,24513.27,Chuo,Ward area,sea
+2018-04-01,H30.4.1,3,区部,港区,海上,3.0,541118.77,Minato,Ward area,sea
+2018-04-01,H30.4.1,8,区部,江東区,海上,18.0,1985942.58,Koto,Ward area,sea
+2018-04-01,H30.4.1,9,区部,品川区,海上,6.0,512212.09,Shinagawa,Ward area,sea
+2018-04-01,H30.4.1,11,区部,大田区,海上,9.0,836499.57,Ota,Ward area,sea
+2018-04-01,H30.4.1,23,区部,江戸川区,海上,1.0,4117473.01,Edogawa,Ward area,sea
+2019-04-01,H31.4.1,1,区部,千代田区,都立,1.0,161636.66,Chiyoda,Ward area,Metropolitan
+2019-04-01,H31.4.1,2,区部,中央区,都立,1.0,250215.72,Chuo,Ward area,Metropolitan
+2019-04-01,H31.4.1,3,区部,港区,都立,4.0,235658.05,Minato,Ward area,Metropolitan
+2019-04-01,H31.4.1,4,区部,新宿区,都立,1.0,186471.81,Shinjuku,Ward area,Metropolitan
+2019-04-01,H31.4.1,5,区部,文京区,都立,2.0,158656.58,Bunkyo,Ward area,Metropolitan
+2019-04-01,H31.4.1,6,区部,台東区,都立,2.0,556742.43,Taito,Ward area,Metropolitan
+2019-04-01,H31.4.1,7,区部,墨田区,都立,3.0,133593.01,Sumida,Ward area,Metropolitan
+2019-04-01,H31.4.1,8,区部,江東区,都立,6.0,1139836.5,Koto,Ward area,Metropolitan
+2019-04-01,H31.4.1,9,区部,品川区,都立,2.0,217553.78,Shinagawa,Ward area,Metropolitan
+2019-04-01,H31.4.1,10,区部,目黒区,都立,0.0,114276.0,Meguro,Ward area,Metropolitan
+2019-04-01,H31.4.1,12,区部,世田谷区,都立,4.0,921707.9,Setagaya,Ward area,Metropolitan
+2019-04-01,H31.4.1,13,区部,渋谷区,都立,2.0,568910.03,Shibuya,Ward area,Metropolitan
+2019-04-01,H31.4.1,15,区部,杉並区,都立,3.0,530992.16,Suginami,Ward area,Metropolitan
+2019-04-01,H31.4.1,17,区部,北区,都立,1.0,71647.37,Kita,Ward area,Metropolitan
+2019-04-01,H31.4.1,18,区部,荒川区,都立,2.0,191211.11,Arakawa,Ward area,Metropolitan
+2019-04-01,H31.4.1,19,区部,板橋区,都立,2.0,462479.86,Itabashi,Ward area,Metropolitan
+2019-04-01,H31.4.1,20,区部,練馬区,都立,4.0,1059015.96,Nerima,Ward area,Metropolitan
+2019-04-01,H31.4.1,21,区部,足立区,都立,3.0,911199.18,Adachi,Ward area,Metropolitan
+2019-04-01,H31.4.1,22,区部,葛飾区,都立,1.0,928253.05,Katsushika,Ward area,Metropolitan
+2019-04-01,H31.4.1,23,区部,江戸川区,都立,4.0,1315984.77,Edogawa,Ward area,Metropolitan
+2019-04-01,H31.4.1,24,区部,その他　※1,都立,0.0,34759.95,,Ward area,Metropolitan
+2019-04-01,H31.4.1,1,市部,八王子市,都立,5.0,1257579.49,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,2,市部,立川市,都立,0.0,32774.81,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,3,市部,武蔵野市,都立,1.0,420595.58,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,4,市部,三鷹市,都立,1.0,472969.89,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,6,市部,府中市,都立,3.0,489027.07,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,7,市部,昭島市,都立,0.0,13123.67,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,8,市部,調布市,都立,3.0,946863.42,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,9,市部,町田市,都立,3.0,1029911.75,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,10,市部,小金井市,都立,1.0,728440.03,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,11,市部,小平市,都立,2.0,161062.31,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,12,市部,日野市,都立,1.0,601372.54,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,13,市部,東村山市,都立,3.0,653623.72,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,14,市部,国分寺市,都立,2.0,135732.02,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,16,市部,福生市,都立,0.0,498.14,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,18,市部,東大和市,都立,2.0,384978.34,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,20,市部,東久留米市,都立,1.0,50112.04,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,21,市部,武蔵村山市,都立,1.0,1024898.29,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,22,市部,多摩市,都立,1.0,339322.38,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,25,市部,あきる野市,都立,1.0,118447.07,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,26,市部,西東京市,都立,1.0,91174.63,,city ​​area,Metropolitan
+2019-04-01,H31.4.1,1,郡部,瑞穂町,都立,1.0,1047011.99,,county,Metropolitan
+2019-04-01,H31.4.1,9,島部,小笠原村,都立,1.0,153125.94,,island part,Metropolitan
+2019-04-01,H31.4.1,1,区部,千代田区,区市町村,22.0,104568.57,Chiyoda,Ward area,Ward municipality
+2019-04-01,H31.4.1,2,区部,中央区,区市町村,57.0,323374.53,Chuo,Ward area,Ward municipality
+2019-04-01,H31.4.1,3,区部,港区,区市町村,47.0,266338.55,Minato,Ward area,Ward municipality
+2019-04-01,H31.4.1,4,区部,新宿区,区市町村,176.0,359457.37,Shinjuku,Ward area,Ward municipality
+2019-04-01,H31.4.1,5,区部,文京区,区市町村,45.0,203327.33,Bunkyo,Ward area,Ward municipality
+2019-04-01,H31.4.1,6,区部,台東区,区市町村,50.0,193301.39,Taito,Ward area,Ward municipality
+2019-04-01,H31.4.1,7,区部,墨田区,区市町村,141.0,639453.6,Sumida,Ward area,Ward municipality
+2019-04-01,H31.4.1,8,区部,江東区,区市町村,168.0,1154766.94,Koto,Ward area,Ward municipality
+2019-04-01,H31.4.1,9,区部,品川区,区市町村,149.0,518332.84,Shinagawa,Ward area,Ward municipality
+2019-04-01,H31.4.1,10,区部,目黒区,区市町村,82.0,350107.07,Meguro,Ward area,Ward municipality
+2019-04-01,H31.4.1,11,区部,大田区,区市町村,505.0,2033614.0,Ota,Ward area,Ward municipality
+2019-04-01,H31.4.1,12,区部,世田谷区,区市町村,424.0,1614870.62,Setagaya,Ward area,Ward municipality
+2019-04-01,H31.4.1,13,区部,渋谷区,区市町村,129.0,160946.53,Shibuya,Ward area,Ward municipality
+2019-04-01,H31.4.1,14,区部,中野区,区市町村,166.0,435034.14,Nakano,Ward area,Ward municipality
+2019-04-01,H31.4.1,15,区部,杉並区,区市町村,278.0,624264.74,Suginami,Ward area,Ward municipality
+2019-04-01,H31.4.1,16,区部,豊島区,区市町村,88.0,181286.59,Toshima,Ward area,Ward municipality
+2019-04-01,H31.4.1,17,区部,北区,区市町村,84.0,898545.92,Kita,Ward area,Ward municipality
+2019-04-01,H31.4.1,18,区部,荒川区,区市町村,36.0,207050.45,Arakawa,Ward area,Ward municipality
+2019-04-01,H31.4.1,19,区部,板橋区,区市町村,344.0,1421807.55,Itabashi,Ward area,Ward municipality
+2019-04-01,H31.4.1,20,区部,練馬区,区市町村,465.0,978099.53,Nerima,Ward area,Ward municipality
+2019-04-01,H31.4.1,21,区部,足立区,区市町村,346.0,2234192.9,Adachi,Ward area,Ward municipality
+2019-04-01,H31.4.1,22,区部,葛飾区,区市町村,152.0,908627.81,Katsushika,Ward area,Ward municipality
+2019-04-01,H31.4.1,23,区部,江戸川区,区市町村,327.0,2132526.05,Edogawa,Ward area,Ward municipality
+2019-04-01,H31.4.1,1,市部,八王子市,区市町村,796.0,5638405.0,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,2,市部,立川市,区市町村,97.0,579919.34,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,3,市部,武蔵野市,区市町村,112.0,197272.0,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,4,市部,三鷹市,区市町村,38.0,126176.32,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,5,市部,青梅市,区市町村,102.0,603642.93,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,6,市部,府中市,区市町村,274.0,1303132.69,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,7,市部,昭島市,区市町村,42.0,482167.42,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,8,市部,調布市,区市町村,204.0,290963.66,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,9,市部,町田市,区市町村,716.0,3193074.48,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,10,市部,小金井市,区市町村,11.0,67894.0,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,11,市部,小平市,区市町村,315.0,356715.0,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,12,市部,日野市,区市町村,202.0,719473.74,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,13,市部,東村山市,区市町村,17.0,118902.81,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,14,市部,国分寺市,区市町村,14.0,86279.11,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,15,市部,国立市,区市町村,25.0,153917.02,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,16,市部,福生市,区市町村,55.0,401749.15,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,17,市部,狛江市,区市町村,27.0,106081.39,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,18,市部,東大和市,区市町村,100.0,309392.92,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,19,市部,清瀬市,区市町村,4.0,50685.48,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,20,市部,東久留米市,区市町村,144.0,197205.65,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,21,市部,武蔵村山市,区市町村,18.0,220235.75,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,22,市部,多摩市,区市町村,208.0,2012496.69,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,23,市部,稲城市,区市町村,123.0,985894.86,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,24,市部,羽村市,区市町村,71.0,337385.37,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,25,市部,あきる野市,区市町村,32.0,181039.74,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,26,市部,西東京市,区市町村,50.0,167054.93,,city ​​area,Ward municipality
+2019-04-01,H31.4.1,1,郡部,瑞穂町,区市町村,55.0,171425.35,,county,Ward municipality
+2019-04-01,H31.4.1,2,郡部,日の出町,区市町村,23.0,55644.7,,county,Ward municipality
+2019-04-01,H31.4.1,1,島部,大島町,区市町村,1.0,1155.0,,island part,Ward municipality
+2019-04-01,H31.4.1,2,島部,新島村,区市町村,4.0,12400.0,,island part,Ward municipality
+2019-04-01,H31.4.1,4,島部,八丈町,区市町村,4.0,112971.38,,island part,Ward municipality
+2019-04-01,H31.4.1,9,島部,小笠原村,区市町村,3.0,9406.68,,island part,Ward municipality
+2019-04-01,H31.4.1,8,区部,江東区,国営,1.0,67000.0,Koto,Ward area,National government
+2019-04-01,H31.4.1,2,市部,立川市,国営,1.0,1078000.0,,city ​​area,National government
+2019-04-01,H31.4.1,7,市部,昭島市,国営,,616000.0,,city ​​area,National government
+2019-04-01,H31.4.1,2,区部,中央区,海上,1.0,24513.27,Chuo,Ward area,sea
+2019-04-01,H31.4.1,3,区部,港区,海上,3.0,541118.77,Minato,Ward area,sea
+2019-04-01,H31.4.1,8,区部,江東区,海上,18.0,1985942.58,Koto,Ward area,sea
+2019-04-01,H31.4.1,9,区部,品川区,海上,6.0,512212.09,Shinagawa,Ward area,sea
+2019-04-01,H31.4.1,11,区部,大田区,海上,9.0,836499.57,Ota,Ward area,sea
+2019-04-01,H31.4.1,23,区部,江戸川区,海上,1.0,4117473.01,Edogawa,Ward area,sea
+2020-04-01,R2.4.1,1,区部,千代田区,都立,1.0,161636.66,Chiyoda,Ward area,Metropolitan
+2020-04-01,R2.4.1,2,区部,中央区,都立,1.0,250215.72,Chuo,Ward area,Metropolitan
+2020-04-01,R2.4.1,3,区部,港区,都立,4.0,235658.05,Minato,Ward area,Metropolitan
+2020-04-01,R2.4.1,4,区部,新宿区,都立,1.0,186471.81,Shinjuku,Ward area,Metropolitan
+2020-04-01,R2.4.1,5,区部,文京区,都立,2.0,158656.58,Bunkyo,Ward area,Metropolitan
+2020-04-01,R2.4.1,6,区部,台東区,都立,2.0,556742.43,Taito,Ward area,Metropolitan
+2020-04-01,R2.4.1,7,区部,墨田区,都立,3.0,133593.01,Sumida,Ward area,Metropolitan
+2020-04-01,R2.4.1,8,区部,江東区,都立,6.0,1139836.5,Koto,Ward area,Metropolitan
+2020-04-01,R2.4.1,9,区部,品川区,都立,2.0,218348.36,Shinagawa,Ward area,Metropolitan
+2020-04-01,R2.4.1,10,区部,目黒区,都立,0.0,114276.0,Meguro,Ward area,Metropolitan
+2020-04-01,R2.4.1,12,区部,世田谷区,都立,4.0,921707.9,Setagaya,Ward area,Metropolitan
+2020-04-01,R2.4.1,13,区部,渋谷区,都立,2.0,568910.03,Shibuya,Ward area,Metropolitan
+2020-04-01,R2.4.1,15,区部,杉並区,都立,3.0,536031.81,Suginami,Ward area,Metropolitan
+2020-04-01,R2.4.1,17,区部,北区,都立,1.0,71647.37,Kita,Ward area,Metropolitan
+2020-04-01,R2.4.1,18,区部,荒川区,都立,2.0,191211.11,Arakawa,Ward area,Metropolitan
+2020-04-01,R2.4.1,19,区部,板橋区,都立,2.0,462479.86,Itabashi,Ward area,Metropolitan
+2020-04-01,R2.4.1,20,区部,練馬区,都立,4.0,1059015.96,Nerima,Ward area,Metropolitan
+2020-04-01,R2.4.1,21,区部,足立区,都立,3.0,911199.18,Adachi,Ward area,Metropolitan
+2020-04-01,R2.4.1,22,区部,葛飾区,都立,1.0,928870.86,Katsushika,Ward area,Metropolitan
+2020-04-01,R2.4.1,23,区部,江戸川区,都立,4.0,1315984.77,Edogawa,Ward area,Metropolitan
+2020-04-01,R2.4.1,24,区部,その他　※1,都立,0.0,34759.95,,Ward area,Metropolitan
+2020-04-01,R2.4.1,1,市部,八王子市,都立,5.0,1257579.49,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,2,市部,立川市,都立,0.0,32774.81,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,3,市部,武蔵野市,都立,1.0,420595.58,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,4,市部,三鷹市,都立,1.0,472969.89,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,6,市部,府中市,都立,3.0,489027.07,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,7,市部,昭島市,都立,0.0,13123.67,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,8,市部,調布市,都立,3.0,946863.42,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,9,市部,町田市,都立,3.0,1045140.49,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,10,市部,小金井市,都立,1.0,728440.03,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,11,市部,小平市,都立,2.0,161062.31,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,12,市部,日野市,都立,1.0,601372.54,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,13,市部,東村山市,都立,3.0,657462.91,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,14,市部,国分寺市,都立,2.0,135732.02,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,16,市部,福生市,都立,0.0,498.14,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,18,市部,東大和市,都立,2.0,386745.34,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,20,市部,東久留米市,都立,1.0,50112.04,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,21,市部,武蔵村山市,都立,1.0,1027206.98,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,22,市部,多摩市,都立,1.0,339322.38,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,25,市部,あきる野市,都立,1.0,118447.07,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,26,市部,西東京市,都立,1.0,102729.27,,city ​​area,Metropolitan
+2020-04-01,R2.4.1,1,郡部,瑞穂町,都立,1.0,1047011.99,,county,Metropolitan
+2020-04-01,R2.4.1,9,島部,小笠原村,都立,1.0,153125.94,,island part,Metropolitan
+2020-04-01,R2.4.1,1,区部,千代田区,区市町村,22.0,104569.21,Chiyoda,Ward area,Ward municipality
+2020-04-01,R2.4.1,2,区部,中央区,区市町村,57.0,336528.24,Chuo,Ward area,Ward municipality
+2020-04-01,R2.4.1,3,区部,港区,区市町村,47.0,267720.85,Minato,Ward area,Ward municipality
+2020-04-01,R2.4.1,4,区部,新宿区,区市町村,177.0,360802.33,Shinjuku,Ward area,Ward municipality
+2020-04-01,R2.4.1,5,区部,文京区,区市町村,45.0,203327.33,Bunkyo,Ward area,Ward municipality
+2020-04-01,R2.4.1,6,区部,台東区,区市町村,50.0,193301.39,Taito,Ward area,Ward municipality
+2020-04-01,R2.4.1,7,区部,墨田区,区市町村,141.0,639642.32,Sumida,Ward area,Ward municipality
+2020-04-01,R2.4.1,8,区部,江東区,区市町村,171.0,1157793.09,Koto,Ward area,Ward municipality
+2020-04-01,R2.4.1,9,区部,品川区,区市町村,149.0,518332.84,Shinagawa,Ward area,Ward municipality
+2020-04-01,R2.4.1,10,区部,目黒区,区市町村,83.0,350307.57,Meguro,Ward area,Ward municipality
+2020-04-01,R2.4.1,11,区部,大田区,区市町村,507.0,2053408.9,Ota,Ward area,Ward municipality
+2020-04-01,R2.4.1,12,区部,世田谷区,区市町村,426.0,1618389.49,Setagaya,Ward area,Ward municipality
+2020-04-01,R2.4.1,13,区部,渋谷区,区市町村,129.0,160946.53,Shibuya,Ward area,Ward municipality
+2020-04-01,R2.4.1,14,区部,中野区,区市町村,167.0,445605.15,Nakano,Ward area,Ward municipality
+2020-04-01,R2.4.1,15,区部,杉並区,区市町村,277.0,624264.74,Suginami,Ward area,Ward municipality
+2020-04-01,R2.4.1,16,区部,豊島区,区市町村,89.0,189934.81,Toshima,Ward area,Ward municipality
+2020-04-01,R2.4.1,17,区部,北区,区市町村,83.0,895152.28,Kita,Ward area,Ward municipality
+2020-04-01,R2.4.1,18,区部,荒川区,区市町村,36.0,207050.45,Arakawa,Ward area,Ward municipality
+2020-04-01,R2.4.1,19,区部,板橋区,区市町村,344.0,1421730.55,Itabashi,Ward area,Ward municipality
+2020-04-01,R2.4.1,20,区部,練馬区,区市町村,466.0,976879.91,Nerima,Ward area,Ward municipality
+2020-04-01,R2.4.1,21,区部,足立区,区市町村,347.0,2237372.04,Adachi,Ward area,Ward municipality
+2020-04-01,R2.4.1,22,区部,葛飾区,区市町村,153.0,915886.34,Katsushika,Ward area,Ward municipality
+2020-04-01,R2.4.1,23,区部,江戸川区,区市町村,331.0,2132362.67,Edogawa,Ward area,Ward municipality
+2020-04-01,R2.4.1,1,市部,八王子市,区市町村,801.0,5640853.0,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,2,市部,立川市,区市町村,99.0,585054.86,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,3,市部,武蔵野市,区市町村,113.0,197936.91,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,4,市部,三鷹市,区市町村,38.0,126131.32,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,5,市部,青梅市,区市町村,102.0,603642.93,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,6,市部,府中市,区市町村,270.0,1310118.58,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,7,市部,昭島市,区市町村,42.0,482167.42,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,8,市部,調布市,区市町村,205.0,291139.22,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,9,市部,町田市,区市町村,717.0,3237644.24,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,10,市部,小金井市,区市町村,11.0,67894.0,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,11,市部,小平市,区市町村,315.0,356715.0,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,12,市部,日野市,区市町村,201.0,721993.74,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,13,市部,東村山市,区市町村,18.0,132880.72,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,14,市部,国分寺市,区市町村,14.0,87844.4,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,15,市部,国立市,区市町村,25.0,153917.02,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,16,市部,福生市,区市町村,55.0,402102.39,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,17,市部,狛江市,区市町村,29.0,106614.46,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,18,市部,東大和市,区市町村,100.0,309392.92,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,19,市部,清瀬市,区市町村,4.0,50685.48,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,20,市部,東久留米市,区市町村,145.0,208499.82,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,21,市部,武蔵村山市,区市町村,18.0,220235.75,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,22,市部,多摩市,区市町村,208.0,2012496.69,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,23,市部,稲城市,区市町村,130.0,1008551.73,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,24,市部,羽村市,区市町村,71.0,337385.37,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,25,市部,あきる野市,区市町村,32.0,181039.74,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,26,市部,西東京市,区市町村,52.0,173001.35,,city ​​area,Ward municipality
+2020-04-01,R2.4.1,1,郡部,瑞穂町,区市町村,55.0,171425.35,,county,Ward municipality
+2020-04-01,R2.4.1,2,郡部,日の出町,区市町村,23.0,55644.7,,county,Ward municipality
+2020-04-01,R2.4.1,1,島部,大島町,区市町村,2.0,68546.94,,island part,Ward municipality
+2020-04-01,R2.4.1,2,島部,新島村,区市町村,4.0,12400.0,,island part,Ward municipality
+2020-04-01,R2.4.1,4,島部,八丈町,区市町村,4.0,112971.38,,island part,Ward municipality
+2020-04-01,R2.4.1,9,島部,小笠原村,区市町村,3.0,9406.68,,island part,Ward municipality
+2020-04-01,R2.4.1,8,区部,江東区,国営,1.0,67000.0,Koto,Ward area,National government
+2020-04-01,R2.4.1,2,市部,立川市,国営,1.0,1078000.0,,city ​​area,National government
+2020-04-01,R2.4.1,7,市部,昭島市,国営,,616000.0,,city ​​area,National government
+2020-04-01,R2.4.1,2,区部,中央区,海上,1.0,24513.27,Chuo,Ward area,sea
+2020-04-01,R2.4.1,3,区部,港区,海上,3.0,541118.77,Minato,Ward area,sea
+2020-04-01,R2.4.1,8,区部,江東区,海上,19.0,2691754.18,Koto,Ward area,sea
+2020-04-01,R2.4.1,9,区部,品川区,海上,6.0,512212.09,Shinagawa,Ward area,sea
+2020-04-01,R2.4.1,11,区部,大田区,海上,9.0,839399.77,Ota,Ward area,sea
+2020-04-01,R2.4.1,23,区部,江戸川区,海上,1.0,4117473.01,Edogawa,Ward area,sea
+2021-04-01,R3.4.1,1,区部,千代田区,都立,1.0,161636.66,Chiyoda,Ward area,Metropolitan
+2021-04-01,R3.4.1,2,区部,中央区,都立,1.0,250215.72,Chuo,Ward area,Metropolitan
+2021-04-01,R3.4.1,3,区部,港区,都立,4.0,235658.05,Minato,Ward area,Metropolitan
+2021-04-01,R3.4.1,4,区部,新宿区,都立,1.0,186471.81,Shinjuku,Ward area,Metropolitan
+2021-04-01,R3.4.1,5,区部,文京区,都立,2.0,158656.58,Bunkyo,Ward area,Metropolitan
+2021-04-01,R3.4.1,6,区部,台東区,都立,2.0,556742.43,Taito,Ward area,Metropolitan
+2021-04-01,R3.4.1,7,区部,墨田区,都立,3.0,133593.01,Sumida,Ward area,Metropolitan
+2021-04-01,R3.4.1,8,区部,江東区,都立,6.0,1139836.5,Koto,Ward area,Metropolitan
+2021-04-01,R3.4.1,9,区部,品川区,都立,2.0,218348.36,Shinagawa,Ward area,Metropolitan
+2021-04-01,R3.4.1,10,区部,目黒区,都立,0.0,114276.0,Meguro,Ward area,Metropolitan
+2021-04-01,R3.4.1,12,区部,世田谷区,都立,4.0,921707.9,Setagaya,Ward area,Metropolitan
+2021-04-01,R3.4.1,13,区部,渋谷区,都立,2.0,568910.03,Shibuya,Ward area,Metropolitan
+2021-04-01,R3.4.1,15,区部,杉並区,都立,4.0,562429.48,Suginami,Ward area,Metropolitan
+2021-04-01,R3.4.1,17,区部,北区,都立,1.0,71647.37,Kita,Ward area,Metropolitan
+2021-04-01,R3.4.1,18,区部,荒川区,都立,2.0,191211.11,Arakawa,Ward area,Metropolitan
+2021-04-01,R3.4.1,19,区部,板橋区,都立,2.0,462479.86,Itabashi,Ward area,Metropolitan
+2021-04-01,R3.4.1,20,区部,練馬区,都立,4.0,1059015.96,Nerima,Ward area,Metropolitan
+2021-04-01,R3.4.1,21,区部,足立区,都立,3.0,911199.18,Adachi,Ward area,Metropolitan
+2021-04-01,R3.4.1,22,区部,葛飾区,都立,1.0,928870.86,Katsushika,Ward area,Metropolitan
+2021-04-01,R3.4.1,23,区部,江戸川区,都立,4.0,1317384.82,Edogawa,Ward area,Metropolitan
+2021-04-01,R3.4.1,24,区部,その他　※1,都立,0.0,34759.95,,Ward area,Metropolitan
+2021-04-01,R3.4.1,1,市部,八王子市,都立,5.0,1262133.43,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,2,市部,立川市,都立,0.0,32774.81,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,3,市部,武蔵野市,都立,1.0,420595.58,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,4,市部,三鷹市,都立,1.0,472969.89,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,6,市部,府中市,都立,3.0,489119.07,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,7,市部,昭島市,都立,0.0,13123.67,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,8,市部,調布市,都立,3.0,946863.42,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,9,市部,町田市,都立,3.0,1045140.49,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,10,市部,小金井市,都立,1.0,728440.03,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,11,市部,小平市,都立,2.0,161062.31,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,12,市部,日野市,都立,1.0,601372.54,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,13,市部,東村山市,都立,3.0,657462.91,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,14,市部,国分寺市,都立,2.0,135732.02,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,16,市部,福生市,都立,0.0,498.14,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,18,市部,東大和市,都立,2.0,386745.34,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,20,市部,東久留米市,都立,1.0,50112.04,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,21,市部,武蔵村山市,都立,1.0,1032863.72,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,22,市部,多摩市,都立,1.0,339322.38,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,25,市部,あきる野市,都立,1.0,118447.07,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,26,市部,西東京市,都立,1.0,102729.27,,city ​​area,Metropolitan
+2021-04-01,R3.4.1,1,郡部,瑞穂町,都立,1.0,1047899.18,,county,Metropolitan
+2021-04-01,R3.4.1,9,島部,小笠原村,都立,1.0,153125.94,,island part,Metropolitan
+2021-04-01,R3.4.1,1,区部,千代田区,区市町村,22.0,104569.21,Chiyoda,Ward area,Ward municipality
+2021-04-01,R3.4.1,2,区部,中央区,区市町村,58.0,337968.46,Chuo,Ward area,Ward municipality
+2021-04-01,R3.4.1,3,区部,港区,区市町村,47.0,267289.0,Minato,Ward area,Ward municipality
+2021-04-01,R3.4.1,4,区部,新宿区,区市町村,177.0,360802.28,Shinjuku,Ward area,Ward municipality
+2021-04-01,R3.4.1,5,区部,文京区,区市町村,45.0,203327.33,Bunkyo,Ward area,Ward municipality
+2021-04-01,R3.4.1,6,区部,台東区,区市町村,50.0,193301.37,Taito,Ward area,Ward municipality
+2021-04-01,R3.4.1,7,区部,墨田区,区市町村,141.0,639914.31,Sumida,Ward area,Ward municipality
+2021-04-01,R3.4.1,8,区部,江東区,区市町村,171.0,1157793.09,Koto,Ward area,Ward municipality
+2021-04-01,R3.4.1,9,区部,品川区,区市町村,149.0,516886.55,Shinagawa,Ward area,Ward municipality
+2021-04-01,R3.4.1,10,区部,目黒区,区市町村,83.0,350307.57,Meguro,Ward area,Ward municipality
+2021-04-01,R3.4.1,11,区部,大田区,区市町村,509.0,2057755.66,Ota,Ward area,Ward municipality
+2021-04-01,R3.4.1,12,区部,世田谷区,区市町村,430.0,1619226.81,Setagaya,Ward area,Ward municipality
+2021-04-01,R3.4.1,13,区部,渋谷区,区市町村,129.0,173693.27,Shibuya,Ward area,Ward municipality
+2021-04-01,R3.4.1,14,区部,中野区,区市町村,168.0,461369.49,Nakano,Ward area,Ward municipality
+2021-04-01,R3.4.1,15,区部,杉並区,区市町村,281.0,632738.97,Suginami,Ward area,Ward municipality
+2021-04-01,R3.4.1,16,区部,豊島区,区市町村,91.0,208660.95,Toshima,Ward area,Ward municipality
+2021-04-01,R3.4.1,17,区部,北区,区市町村,83.0,895152.28,Kita,Ward area,Ward municipality
+2021-04-01,R3.4.1,18,区部,荒川区,区市町村,36.0,224114.4,Arakawa,Ward area,Ward municipality
+2021-04-01,R3.4.1,19,区部,板橋区,区市町村,344.0,1423761.04,Itabashi,Ward area,Ward municipality
+2021-04-01,R3.4.1,20,区部,練馬区,区市町村,468.0,979003.14,Nerima,Ward area,Ward municipality
+2021-04-01,R3.4.1,21,区部,足立区,区市町村,350.0,2241601.86,Adachi,Ward area,Ward municipality
+2021-04-01,R3.4.1,22,区部,葛飾区,区市町村,153.0,917714.12,Katsushika,Ward area,Ward municipality
+2021-04-01,R3.4.1,23,区部,江戸川区,区市町村,335.0,2137087.32,Edogawa,Ward area,Ward municipality
+2021-04-01,R3.4.1,1,市部,八王子市,区市町村,804.0,5646939.0,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,2,市部,立川市,区市町村,99.0,585054.86,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,3,市部,武蔵野市,区市町村,113.0,198497.18,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,4,市部,三鷹市,区市町村,38.0,126131.32,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,5,市部,青梅市,区市町村,102.0,615353.06,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,6,市部,府中市,区市町村,272.0,1314939.99,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,7,市部,昭島市,区市町村,42.0,483297.97,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,8,市部,調布市,区市町村,206.0,292929.1,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,9,市部,町田市,区市町村,719.0,3328250.43,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,10,市部,小金井市,区市町村,11.0,67894.0,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,11,市部,小平市,区市町村,319.0,358798.0,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,12,市部,日野市,区市町村,204.0,722483.45,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,13,市部,東村山市,区市町村,19.0,139432.25,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,14,市部,国分寺市,区市町村,14.0,87844.4,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,15,市部,国立市,区市町村,25.0,154668.02,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,16,市部,福生市,区市町村,55.0,402102.39,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,17,市部,狛江市,区市町村,29.0,106902.88,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,18,市部,東大和市,区市町村,100.0,309392.92,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,19,市部,清瀬市,区市町村,4.0,50685.48,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,20,市部,東久留米市,区市町村,148.0,209211.75,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,21,市部,武蔵村山市,区市町村,18.0,220235.75,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,22,市部,多摩市,区市町村,208.0,2013522.73,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,23,市部,稲城市,区市町村,130.0,1016709.26,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,24,市部,羽村市,区市町村,71.0,338873.37,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,25,市部,あきる野市,区市町村,32.0,181039.74,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,26,市部,西東京市,区市町村,52.0,173001.35,,city ​​area,Ward municipality
+2021-04-01,R3.4.1,1,郡部,瑞穂町,区市町村,55.0,171425.35,,county,Ward municipality
+2021-04-01,R3.4.1,2,郡部,日の出町,区市町村,23.0,55644.7,,county,Ward municipality
+2021-04-01,R3.4.1,1,島部,大島町,区市町村,2.0,68546.94,,island part,Ward municipality
+2021-04-01,R3.4.1,2,島部,新島村,区市町村,4.0,12400.0,,island part,Ward municipality
+2021-04-01,R3.4.1,4,島部,八丈町,区市町村,4.0,112971.38,,island part,Ward municipality
+2021-04-01,R3.4.1,9,島部,小笠原村,区市町村,3.0,9406.68,,island part,Ward municipality
+2021-04-01,R3.4.1,8,区部,江東区,国営,1.0,67000.0,Koto,Ward area,National government
+2021-04-01,R3.4.1,2,市部,立川市,国営,1.0,1078000.0,,city ​​area,National government
+2021-04-01,R3.4.1,7,市部,昭島市,国営,,616000.0,,city ​​area,National government
+2021-04-01,R3.4.1,2,区部,中央区,海上,1.0,24513.27,Chuo,Ward area,sea
+2021-04-01,R3.4.1,3,区部,港区,海上,3.0,541118.77,Minato,Ward area,sea
+2021-04-01,R3.4.1,8,区部,江東区,海上,18.0,2682461.08,Koto,Ward area,sea
+2021-04-01,R3.4.1,9,区部,品川区,海上,6.0,512212.09,Shinagawa,Ward area,sea
+2021-04-01,R3.4.1,11,区部,大田区,海上,9.0,839399.77,Ota,Ward area,sea
+2021-04-01,R3.4.1,23,区部,江戸川区,海上,1.0,4117473.01,Edogawa,Ward area,sea
+2022-04-01,R4.4.1,1,区部,千代田区,都立,1.0,161636.66,Chiyoda,Ward area,Metropolitan
+2022-04-01,R4.4.1,2,区部,中央区,都立,1.0,250215.72,Chuo,Ward area,Metropolitan
+2022-04-01,R4.4.1,3,区部,港区,都立,4.0,235658.05,Minato,Ward area,Metropolitan
+2022-04-01,R4.4.1,4,区部,新宿区,都立,1.0,186471.81,Shinjuku,Ward area,Metropolitan
+2022-04-01,R4.4.1,5,区部,文京区,都立,2.0,158656.58,Bunkyo,Ward area,Metropolitan
+2022-04-01,R4.4.1,6,区部,台東区,都立,2.0,556742.43,Taito,Ward area,Metropolitan
+2022-04-01,R4.4.1,7,区部,墨田区,都立,3.0,133593.01,Sumida,Ward area,Metropolitan
+2022-04-01,R4.4.1,8,区部,江東区,都立,6.0,1139836.5,Koto,Ward area,Metropolitan
+2022-04-01,R4.4.1,9,区部,品川区,都立,2.0,218348.36,Shinagawa,Ward area,Metropolitan
+2022-04-01,R4.4.1,10,区部,目黒区,都立,0.0,114276.0,Meguro,Ward area,Metropolitan
+2022-04-01,R4.4.1,12,区部,世田谷区,都立,4.0,921707.9,Setagaya,Ward area,Metropolitan
+2022-04-01,R4.4.1,13,区部,渋谷区,都立,2.0,606053.73,Shibuya,Ward area,Metropolitan
+2022-04-01,R4.4.1,15,区部,杉並区,都立,4.0,599189.67,Suginami,Ward area,Metropolitan
+2022-04-01,R4.4.1,17,区部,北区,都立,1.0,71647.37,Kita,Ward area,Metropolitan
+2022-04-01,R4.4.1,18,区部,荒川区,都立,2.0,191211.11,Arakawa,Ward area,Metropolitan
+2022-04-01,R4.4.1,19,区部,板橋区,都立,2.0,462479.86,Itabashi,Ward area,Metropolitan
+2022-04-01,R4.4.1,20,区部,練馬区,都立,4.0,1059015.96,Nerima,Ward area,Metropolitan
+2022-04-01,R4.4.1,21,区部,足立区,都立,3.0,924665.06,Adachi,Ward area,Metropolitan
+2022-04-01,R4.4.1,22,区部,葛飾区,都立,1.0,928870.86,Katsushika,Ward area,Metropolitan
+2022-04-01,R4.4.1,23,区部,江戸川区,都立,4.0,1327506.04,Edogawa,Ward area,Metropolitan
+2022-04-01,R4.4.1,24,区部,その他　※1,都立,0.0,34759.95,,Ward area,Metropolitan
+2022-04-01,R4.4.1,1,市部,八王子市,都立,5.0,1262133.43,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,2,市部,立川市,都立,0.0,32774.81,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,3,市部,武蔵野市,都立,1.0,420595.58,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,4,市部,三鷹市,都立,1.0,472969.89,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,6,市部,府中市,都立,3.0,489119.07,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,7,市部,昭島市,都立,0.0,13123.67,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,8,市部,調布市,都立,3.0,946863.42,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,9,市部,町田市,都立,3.0,1045140.49,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,10,市部,小金井市,都立,1.0,728440.03,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,11,市部,小平市,都立,2.0,161062.31,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,12,市部,日野市,都立,1.0,601372.54,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,13,市部,東村山市,都立,3.0,657462.91,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,14,市部,国分寺市,都立,2.0,135732.02,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,16,市部,福生市,都立,0.0,498.14,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,18,市部,東大和市,都立,2.0,388145.44,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,20,市部,東久留米市,都立,1.0,50112.04,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,21,市部,武蔵村山市,都立,1.0,1038483.81,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,22,市部,多摩市,都立,1.0,339322.38,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,25,市部,あきる野市,都立,1.0,118447.07,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,26,市部,西東京市,都立,1.0,104127.55,,city ​​area,Metropolitan
+2022-04-01,R4.4.1,1,郡部,瑞穂町,都立,1.0,1051651.96,,county,Metropolitan
+2022-04-01,R4.4.1,9,島部,小笠原村,都立,1.0,153125.94,,island part,Metropolitan
+2022-04-01,R4.4.1,1,区部,千代田区,区市町村,22.0,104090.88,Chiyoda,Ward area,Ward municipality
+2022-04-01,R4.4.1,2,区部,中央区,区市町村,58.0,337968.46,Chuo,Ward area,Ward municipality
+2022-04-01,R4.4.1,3,区部,港区,区市町村,47.0,267289.0,Minato,Ward area,Ward municipality
+2022-04-01,R4.4.1,4,区部,新宿区,区市町村,177.0,360811.9,Shinjuku,Ward area,Ward municipality
+2022-04-01,R4.4.1,5,区部,文京区,区市町村,45.0,203327.33,Bunkyo,Ward area,Ward municipality
+2022-04-01,R4.4.1,6,区部,台東区,区市町村,50.0,193301.37,Taito,Ward area,Ward municipality
+2022-04-01,R4.4.1,7,区部,墨田区,区市町村,141.0,639885.45,Sumida,Ward area,Ward municipality
+2022-04-01,R4.4.1,8,区部,江東区,区市町村,171.0,1157752.52,Koto,Ward area,Ward municipality
+2022-04-01,R4.4.1,9,区部,品川区,区市町村,150.0,519890.28,Shinagawa,Ward area,Ward municipality
+2022-04-01,R4.4.1,10,区部,目黒区,区市町村,83.0,350307.57,Meguro,Ward area,Ward municipality
+2022-04-01,R4.4.1,11,区部,大田区,区市町村,509.0,2061396.82,Ota,Ward area,Ward municipality
+2022-04-01,R4.4.1,12,区部,世田谷区,区市町村,435.0,1627742.81,Setagaya,Ward area,Ward municipality
+2022-04-01,R4.4.1,13,区部,渋谷区,区市町村,131.0,173967.27,Shibuya,Ward area,Ward municipality
+2022-04-01,R4.4.1,14,区部,中野区,区市町村,168.0,461299.05,Nakano,Ward area,Ward municipality
+2022-04-01,R4.4.1,15,区部,杉並区,区市町村,284.0,637820.93,Suginami,Ward area,Ward municipality
+2022-04-01,R4.4.1,16,区部,豊島区,区市町村,91.0,208660.95,Toshima,Ward area,Ward municipality
+2022-04-01,R4.4.1,17,区部,北区,区市町村,84.0,900275.37,Kita,Ward area,Ward municipality
+2022-04-01,R4.4.1,18,区部,荒川区,区市町村,106.0,262150.34,Arakawa,Ward area,Ward municipality
+2022-04-01,R4.4.1,19,区部,板橋区,区市町村,343.0,1422727.36,Itabashi,Ward area,Ward municipality
+2022-04-01,R4.4.1,20,区部,練馬区,区市町村,471.0,988652.06,Nerima,Ward area,Ward municipality
+2022-04-01,R4.4.1,21,区部,足立区,区市町村,348.0,2240935.23,Adachi,Ward area,Ward municipality
+2022-04-01,R4.4.1,22,区部,葛飾区,区市町村,154.0,917695.38,Katsushika,Ward area,Ward municipality
+2022-04-01,R4.4.1,23,区部,江戸川区,区市町村,490.0,2337919.03,Edogawa,Ward area,Ward municipality
+2022-04-01,R4.4.1,1,市部,八王子市,区市町村,807.0,5657124.0,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,2,市部,立川市,区市町村,99.0,585054.86,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,3,市部,武蔵野市,区市町村,113.0,198935.43,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,4,市部,三鷹市,区市町村,38.0,126131.32,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,5,市部,青梅市,区市町村,102.0,615353.06,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,6,市部,府中市,区市町村,272.0,1315203.85,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,7,市部,昭島市,区市町村,42.0,483297.97,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,8,市部,調布市,区市町村,206.0,293616.21,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,9,市部,町田市,区市町村,721.0,3335288.4,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,10,市部,小金井市,区市町村,11.0,70174.0,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,11,市部,小平市,区市町村,319.0,359086.0,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,12,市部,日野市,区市町村,205.0,736730.45,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,13,市部,東村山市,区市町村,19.0,140097.25,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,14,市部,国分寺市,区市町村,15.0,89483.47,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,15,市部,国立市,区市町村,25.0,154668.02,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,16,市部,福生市,区市町村,55.0,402102.39,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,17,市部,狛江市,区市町村,84.0,124362.76,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,18,市部,東大和市,区市町村,100.0,309392.92,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,19,市部,清瀬市,区市町村,4.0,50685.48,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,20,市部,東久留米市,区市町村,148.0,209211.68,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,21,市部,武蔵村山市,区市町村,18.0,220235.75,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,22,市部,多摩市,区市町村,208.0,2013522.73,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,23,市部,稲城市,区市町村,136.0,1025811.23,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,24,市部,羽村市,区市町村,71.0,338873.37,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,25,市部,あきる野市,区市町村,32.0,181039.74,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,26,市部,西東京市,区市町村,52.0,173001.35,,city ​​area,Ward municipality
+2022-04-01,R4.4.1,1,郡部,瑞穂町,区市町村,56.0,171727.99,,county,Ward municipality
+2022-04-01,R4.4.1,2,郡部,日の出町,区市町村,23.0,55644.7,,county,Ward municipality
+2022-04-01,R4.4.1,1,島部,大島町,区市町村,2.0,68546.94,,island part,Ward municipality
+2022-04-01,R4.4.1,2,島部,新島村,区市町村,4.0,12400.0,,island part,Ward municipality
+2022-04-01,R4.4.1,4,島部,八丈町,区市町村,4.0,112971.38,,island part,Ward municipality
+2022-04-01,R4.4.1,9,島部,小笠原村,区市町村,3.0,9406.68,,island part,Ward municipality
+2022-04-01,R4.4.1,8,区部,江東区,国営,1.0,67000.0,Koto,Ward area,National government
+2022-04-01,R4.4.1,2,市部,立川市,国営,1.0,1078000.0,,city ​​area,National government
+2022-04-01,R4.4.1,7,市部,昭島市,国営,,616000.0,,city ​​area,National government
+2022-04-01,R4.4.1,2,区部,中央区,海上,1.0,24513.27,Chuo,Ward area,sea
+2022-04-01,R4.4.1,3,区部,港区,海上,3.0,541118.77,Minato,Ward area,sea
+2022-04-01,R4.4.1,8,区部,江東区,海上,18.0,2682461.42,Koto,Ward area,sea
+2022-04-01,R4.4.1,9,区部,品川区,海上,6.0,514395.88,Shinagawa,Ward area,sea
+2022-04-01,R4.4.1,11,区部,大田区,海上,9.0,839399.77,Ota,Ward area,sea
+2022-04-01,R4.4.1,23,区部,江戸川区,海上,1.0,4117473.01,Edogawa,Ward area,sea
+2023-04-01,R5/4/1,1,区部,千代田区,都立,1.0,161636.66,Chiyoda,Ward area,Metropolitan
+2023-04-01,R5/4/1,2,区部,中央区,都立,1.0,250215.72,Chuo,Ward area,Metropolitan
+2023-04-01,R5/4/1,3,区部,港区,都立,4.0,240390.31,Minato,Ward area,Metropolitan
+2023-04-01,R5/4/1,4,区部,新宿区,都立,1.0,210689.68,Shinjuku,Ward area,Metropolitan
+2023-04-01,R5/4/1,5,区部,文京区,都立,2.0,158656.58,Bunkyo,Ward area,Metropolitan
+2023-04-01,R5/4/1,6,区部,台東区,都立,2.0,556996.93,Taito,Ward area,Metropolitan
+2023-04-01,R5/4/1,7,区部,墨田区,都立,3.0,133593.01,Sumida,Ward area,Metropolitan
+2023-04-01,R5/4/1,8,区部,江東区,都立,6.0,1139836.5,Koto,Ward area,Metropolitan
+2023-04-01,R5/4/1,9,区部,品川区,都立,2.0,218348.36,Shinagawa,Ward area,Metropolitan
+2023-04-01,R5/4/1,10,区部,目黒区,都立,0.0,114276.0,Meguro,Ward area,Metropolitan
+2023-04-01,R5/4/1,12,区部,世田谷区,都立,4.0,923238.64,Setagaya,Ward area,Metropolitan
+2023-04-01,R5/4/1,13,区部,渋谷区,都立,2.0,581835.86,Shibuya,Ward area,Metropolitan
+2023-04-01,R5/4/1,15,区部,杉並区,都立,4.0,621534.76,Suginami,Ward area,Metropolitan
+2023-04-01,R5/4/1,17,区部,北区,都立,1.0,71647.37,Kita,Ward area,Metropolitan
+2023-04-01,R5/4/1,18,区部,荒川区,都立,2.0,191211.11,Arakawa,Ward area,Metropolitan
+2023-04-01,R5/4/1,19,区部,板橋区,都立,2.0,468317.13,Itabashi,Ward area,Metropolitan
+2023-04-01,R5/4/1,20,区部,練馬区,都立,4.0,1059598.92,Nerima,Ward area,Metropolitan
+2023-04-01,R5/4/1,21,区部,足立区,都立,3.0,929313.6,Adachi,Ward area,Metropolitan
+2023-04-01,R5/4/1,22,区部,葛飾区,都立,1.0,932054.28,Katsushika,Ward area,Metropolitan
+2023-04-01,R5/4/1,23,区部,江戸川区,都立,4.0,1327506.04,Edogawa,Ward area,Metropolitan
+2023-04-01,R5/4/1,24,区部,その他　※1,都立,0.0,34759.95,,Ward area,Metropolitan
+2023-04-01,R5/4/1,1,市部,八王子市,都立,5.0,1267756.72,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,2,市部,立川市,都立,0.0,32774.81,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,3,市部,武蔵野市,都立,1.0,420595.58,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,4,市部,三鷹市,都立,1.0,472969.89,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,6,市部,府中市,都立,3.0,489119.07,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,7,市部,昭島市,都立,0.0,13123.67,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,8,市部,調布市,都立,3.0,959100.54,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,9,市部,町田市,都立,3.0,1045140.49,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,10,市部,小金井市,都立,1.0,730364.29,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,11,市部,小平市,都立,2.0,161062.31,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,12,市部,日野市,都立,1.0,601372.54,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,13,市部,東村山市,都立,3.0,657679.43,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,14,市部,国分寺市,都立,2.0,135732.02,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,16,市部,福生市,都立,0.0,498.14,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,18,市部,東大和市,都立,2.0,388145.44,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,20,市部,東久留米市,都立,1.0,53733.89,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,21,市部,武蔵村山市,都立,1.0,1043237.28,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,22,市部,多摩市,都立,1.0,339946.3,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,25,市部,あきる野市,都立,1.0,118447.07,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,26,市部,西東京市,都立,1.0,105593.43,,city ​​area,Metropolitan
+2023-04-01,R5/4/1,1,郡部,瑞穂町,都立,1.0,1051651.96,,county,Metropolitan
+2023-04-01,R5/4/1,9,島部,小笠原村,都立,1.0,153125.94,,island part,Metropolitan
+2023-04-01,R5/4/1,1,区部,千代田区,区市町村,22.0,104090.88,Chiyoda,Ward area,Ward municipality
+2023-04-01,R5/4/1,2,区部,中央区,区市町村,57.0,340100.8,Chuo,Ward area,Ward municipality
+2023-04-01,R5/4/1,3,区部,港区,区市町村,47.0,267246.7,Minato,Ward area,Ward municipality
+2023-04-01,R5/4/1,4,区部,新宿区,区市町村,177.0,361128.15,Shinjuku,Ward area,Ward municipality
+2023-04-01,R5/4/1,5,区部,文京区,区市町村,45.0,203327.33,Bunkyo,Ward area,Ward municipality
+2023-04-01,R5/4/1,6,区部,台東区,区市町村,50.0,193301.37,Taito,Ward area,Ward municipality
+2023-04-01,R5/4/1,7,区部,墨田区,区市町村,141.0,642697.2,Sumida,Ward area,Ward municipality
+2023-04-01,R5/4/1,8,区部,江東区,区市町村,171.0,1157270.3,Koto,Ward area,Ward municipality
+2023-04-01,R5/4/1,9,区部,品川区,区市町村,151.0,520632.28,Shinagawa,Ward area,Ward municipality
+2023-04-01,R5/4/1,10,区部,目黒区,区市町村,83.0,350307.57,Meguro,Ward area,Ward municipality
+2023-04-01,R5/4/1,11,区部,大田区,区市町村,508.0,2061878.62,Ota,Ward area,Ward municipality
+2023-04-01,R5/4/1,12,区部,世田谷区,区市町村,437.0,1637140.1,Setagaya,Ward area,Ward municipality
+2023-04-01,R5/4/1,13,区部,渋谷区,区市町村,130.0,172639.09,Shibuya,Ward area,Ward municipality
+2023-04-01,R5/4/1,14,区部,中野区,区市町村,168.0,461299.05,Nakano,Ward area,Ward municipality
+2023-04-01,R5/4/1,15,区部,杉並区,区市町村,286.0,642800.86,Suginami,Ward area,Ward municipality
+2023-04-01,R5/4/1,16,区部,豊島区,区市町村,91.0,208660.95,Toshima,Ward area,Ward municipality
+2023-04-01,R5/4/1,17,区部,北区,区市町村,86.0,918352.17,Kita,Ward area,Ward municipality
+2023-04-01,R5/4/1,18,区部,荒川区,区市町村,106.0,262211.47,Arakawa,Ward area,Ward municipality
+2023-04-01,R5/4/1,19,区部,板橋区,区市町村,342.0,1422084.21,Itabashi,Ward area,Ward municipality
+2023-04-01,R5/4/1,20,区部,練馬区,区市町村,474.0,990257.59,Nerima,Ward area,Ward municipality
+2023-04-01,R5/4/1,21,区部,足立区,区市町村,350.0,2245166.46,Adachi,Ward area,Ward municipality
+2023-04-01,R5/4/1,22,区部,葛飾区,区市町村,154.0,921090.52,Katsushika,Ward area,Ward municipality
+2023-04-01,R5/4/1,23,区部,江戸川区,区市町村,493.0,2338901.1,Edogawa,Ward area,Ward municipality
+2023-04-01,R5/4/1,1,市部,八王子市,区市町村,809.0,5657982.0,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,2,市部,立川市,区市町村,100.0,585780.3,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,3,市部,武蔵野市,区市町村,114.0,199732.92,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,4,市部,三鷹市,区市町村,39.0,127093.76,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,5,市部,青梅市,区市町村,104.0,615911.57,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,6,市部,府中市,区市町村,272.0,1315154.02,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,7,市部,昭島市,区市町村,42.0,483297.97,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,8,市部,調布市,区市町村,206.0,293562.66,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,9,市部,町田市,区市町村,728.0,3382156.11,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,10,市部,小金井市,区市町村,11.0,70174.0,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,11,市部,小平市,区市町村,321.0,361735.0,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,12,市部,日野市,区市町村,207.0,738445.86,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,13,市部,東村山市,区市町村,19.0,140256.48,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,14,市部,国分寺市,区市町村,16.0,90021.28,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,15,市部,国立市,区市町村,25.0,154668.02,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,16,市部,福生市,区市町村,55.0,402101.99,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,17,市部,狛江市,区市町村,84.0,124362.93,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,18,市部,東大和市,区市町村,100.0,309392.92,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,19,市部,清瀬市,区市町村,4.0,50685.48,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,20,市部,東久留米市,区市町村,148.0,209211.68,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,21,市部,武蔵村山市,区市町村,18.0,220235.75,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,22,市部,多摩市,区市町村,208.0,2013522.73,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,23,市部,稲城市,区市町村,138.0,1029098.24,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,24,市部,羽村市,区市町村,72.0,351915.37,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,25,市部,あきる野市,区市町村,32.0,181039.74,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,26,市部,西東京市,区市町村,52.0,173001.35,,city ​​area,Ward municipality
+2023-04-01,R5/4/1,1,郡部,瑞穂町,区市町村,57.0,172846.53,,county,Ward municipality
+2023-04-01,R5/4/1,2,郡部,日の出町,区市町村,23.0,55644.7,,county,Ward municipality
+2023-04-01,R5/4/1,1,島部,大島町,区市町村,2.0,68546.94,,island part,Ward municipality
+2023-04-01,R5/4/1,2,島部,新島村,区市町村,4.0,12400.0,,island part,Ward municipality
+2023-04-01,R5/4/1,4,島部,八丈町,区市町村,4.0,112971.38,,island part,Ward municipality
+2023-04-01,R5/4/1,9,島部,小笠原村,区市町村,3.0,9406.68,,island part,Ward municipality
+2023-04-01,R5/4/1,8,区部,江東区,国営,1.0,67000.0,Koto,Ward area,National government
+2023-04-01,R5/4/1,2,市部,立川市,国営,1.0,1078000.0,,city ​​area,National government
+2023-04-01,R5/4/1,7,市部,昭島市,国営,,616000.0,,city ​​area,National government
+2023-04-01,R5/4/1,2,区部,中央区,海上,2.0,35501.81,Chuo,Ward area,sea
+2023-04-01,R5/4/1,3,区部,港区,海上,3.0,541118.77,Minato,Ward area,sea
+2023-04-01,R5/4/1,8,区部,江東区,海上,19.0,2682461.42,Koto,Ward area,sea
+2023-04-01,R5/4/1,9,区部,品川区,海上,6.0,514395.88,Shinagawa,Ward area,sea
+2023-04-01,R5/4/1,11,区部,大田区,海上,9.0,839399.77,Ota,Ward area,sea
+2023-04-01,R5/4/1,23,区部,江戸川区,海上,1.0,4117473.01,Edogawa,Ward area,sea

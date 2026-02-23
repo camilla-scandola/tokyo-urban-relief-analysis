@@ -87,5 +87,47 @@ All datasets are standardized to a common spatial unit: **`tokyo_ward`**.
 
 All indicators are: aggregated at **ward level**, normalized for **comparability**, structured for **cross-domain analysis (urban form, green space, sustainability)**
 
+## Key Insights & Analytical Framework
+
+### Core Indicators
+- **Urban density**: building footprint (land use proxy) and volume / height (urban intensity)
+- **Green space**: share of park area relative to ward surface
+- **Sustainability**: number of CASBEE-certified buildings (normalized)
+- **Flood risk**: proportion of built area exposed to high flood zones
+
+---
+
+### Analytical Focus
+- Compare **green space distribution across wards**
+- Assess relationship between **density and green infrastructure**
+- Track **evolution of parks over time**
+- Identify **spatial patterns and ward typologies**
+
+---
+
+### Urban Relief Index (Composite Metric)
+A synthetic index (0–100) summarizing urban balance per ward:
+
+- Indicators **standardized** for comparability  
+- **Direction aligned** (density & flood risk penalized; green factors rewarded)  
+- **Balanced weighting** across dimensions  
+- Produces a **composite score** reflecting overall urban livability balance  
+
+---
+
+### Dashboard Structure
+- **Spatial & temporal analysis**: evolution of green space over time  
+- **Urban classification**: comparison of wards by density, coverage, and greenery  
+
+---
+
+### Key-takeaways
+- 21 out of 23 wards increased green space over the past decade
+  (the highest at a 36% rate compared to initial green space)
+- Green growth occurs all across the city, but at different rates  
+- Higher density is associated with slower greening, but doesn't necessarily prevent it
+- Peripheral wards are generally greener than central ones  
+- The Urban Relief Index shows big discrepancies across wards
+
 ## Languages, libraries & tools used: 
 `python`, `sql`, `pandas`, `numpy`, `sqlalchemy`, `sqlite3`, `geopy`, `deep_translator`, `requests`, `Tableau`

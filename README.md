@@ -29,7 +29,7 @@ This dataset provides:
 - ward-level park area  
 - temporal evolution of green space (2016–2023)  
 
-in my analysis, it represents the primary indicator of environmental relief and urban greening** in Tokyo
+in my analysis, it represents the primary indicator of environmental relief and urban greening in Tokyo
 
 ### 3. CASBEE Certified Buildings Dataset
 
@@ -49,13 +49,9 @@ All datasets are standardized to a common spatial unit (my primary key): **`toky
 ### 1. Building Metrics (PLATEAU)
 
 **Views:**
-- `ward_building_density`
-  - `built_footprint` = SUM(roof area)
-  - `built_volume` = SUM(roof area × height)
+- `ward_building_density` (`built_footprint` = SUM(roof area); `built_volume` = SUM(roof area × height))
 
-- `ward_building_density_norm`
-  - `ground_coverage_percent`
-  - `volume_per_km2`
+- `ward_building_density_norm` (`ground_coverage_percent`; `volume_per_km2`)
 
 ### 2. Green Space (Parks)
 

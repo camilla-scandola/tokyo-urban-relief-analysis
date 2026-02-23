@@ -18,7 +18,7 @@ To make it usable, I:
 
 A GeoPackage is a **SQLite spatial database**, enabling SQL queries and efficient analysis.
 
-For this project, I focused on the **buildings layer (`bldg`), resulting in:
+For this project, I focused on the buildings layer (`bldg`), resulting in:
 
 → ~2.7 million building records across Tokyo’s 23 wards  
 

@@ -131,3 +131,7 @@ A synthetic index (0–100) summarizing urban balance per ward:
 
 ## Languages, libraries & tools used: 
 `python`, `sql`, `pandas`, `numpy`, `sqlalchemy`, `sqlite3`, `geopy`, `deep_translator`, `requests`, `Tableau`
+
+### Data Viz
+
+<p align="center"><img src="images/tokyo-viz.png"/>

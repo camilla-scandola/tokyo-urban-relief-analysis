@@ -134,4 +134,4 @@ A synthetic index (0–100) summarizing urban balance per ward:
 
 ### Data Viz
 
-<p align="center"><img src="images/tokyo-viz.png"/>
+<p align="center"><img src="tokyo-viz.png"/>

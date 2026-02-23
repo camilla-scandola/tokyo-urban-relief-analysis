@@ -1,6 +1,6 @@
 # 🗾 緑の東京、未来へ 🌱
 Exploring the relationship between urban density and environmental relief in Tokyo
-Canva presentation
+- <a href="https://www.canva.com/design/DAHB5hy6O24/3cAZshsJx624IUEIXW_uAQ/edit?utm_content=DAHB5hy6O24&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva presentation</a>
 
 ---
 

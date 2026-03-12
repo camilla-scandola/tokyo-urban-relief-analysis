@@ -1,5 +1,9 @@
 # 🗾 緑の東京、未来へ 🌱
-Exploring the relationship between urban density and environmental relief in Tokyo
+Tokyo is the world's most populated metropolitan area, home to nearly 40 million people. Despite its extreme urban density, the city has been consistently expanding its green areas and infrastructures over the past decade. This project explores how extreme urban density coexist with sustainable development
+
+**Goal:**
+To track how green infrastructure has evolved across Tokyo's 23 wards between 2016 and 2023, identifying which wards show the strongest signals of greening even under significant urban pressure, and to quantify how green space, urban density, sustainability certification, and flood risk interact across the city, synthesising these dimensions into a composite Urban Relief Index (0-100)
+
 - <a href="https://github.com/camilla-scandola/tokyo-urban-relief-analysis/blob/main/Presentation%20-%20緑の東京、未来へ.pdf">Canva presentation</a>
 
 ---

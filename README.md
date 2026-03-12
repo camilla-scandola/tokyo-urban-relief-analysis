@@ -158,4 +158,6 @@ python API/app.py
 
 ## Data Viz
 
+- <a href="https://public.tableau.com/app/profile/camilla.scandola/viz/tokyo-urban-relief-analysis/TokyoUrbanReliefAnalysis">Tableau Dashboard</a>
+
 <p align="center"><img src="tokyo-viz.png"/>
